@@ -5,7 +5,8 @@ PRODUCT_PACKAGES += \
     GameSpace \
     GrapheneCamera \
     OmniJaws \
-    Updater
+    Updater \
+    WeatherIcons
 
 # Themes
 PRODUCT_PACKAGES += \
